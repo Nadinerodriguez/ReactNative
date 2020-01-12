@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nadinerodriguez/Desktop/ReactNative/Test/Test/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/nadinerodriguez/Desktop/ReactNative/Test/Test/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nadinerodriguez/Desktop/ReactNative/Test/Test/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/nadinerodriguez/Desktop/ReactNative/Test/Test/Test.csproj",
+        "packagesPath": "/Users/nadinerodriguez/.nuget/packages/",
+        "outputPath": "/Users/nadinerodriguez/Desktop/ReactNative/Test/Test/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/nadinerodriguez/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
